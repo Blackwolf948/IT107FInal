@@ -1,0 +1,21 @@
+p{2.2em} 
+.weather-heading {font-family:Helvetica}
+.weather-forecast {background-color: #274475b6}
+.forecast {color: #a603f7}
+body{ color: aquamarine !important}
+a:link { background-color: lightblue;
+     color: orange;
+}
+a:visited { background-color: lightblue;
+    color: rgb(38, 167, 66);
+}
+a:hover { background-color: rgb(243, 4, 203);
+    color: rgb(172, 25, 14);
+}
+:active { background-color: rgb(195, 255, 98);
+    color: rgb(0, 0, 0);
+}
+/*Give all p elements a font-size of 1.2em
+Give the class "weather-heading" a font-family of Helvetica.
+Give the class "weather-forecast" a background-color of "#c7d5ed"
+Give the class "forecast" a color of "#270538"

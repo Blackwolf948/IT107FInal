@@ -1,0 +1,14 @@
+:root {
+    --main-backgroundColor: purple;
+    --H1-textColor:  yellow;
+    --H2-Textcolor: Green;
+}
+
+h1{ 
+    color: var( --H1-textColor);
+    background-color: var(--main-backgroundColor);
+}
+h2{
+    color: var(--H2-Textcolor);
+    background-color: var(--main-backgroundColor);
+}
